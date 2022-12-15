@@ -1,6 +1,6 @@
 # sportsdb
 
-A new Flutter project.
+The Flutter project, which shows sporting events.
 
 ## Getting Started
 
