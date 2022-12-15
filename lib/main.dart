@@ -6,7 +6,6 @@ import 'package:sportsdb/presentation/matchboard/matchboard_screen.dart';
 import 'package:sportsdb/presentation/preloader/preloader_screen.dart';
 import 'package:sportsdb/presentation/sportsdb/sportsdb_screen.dart';
 import 'package:sportsdb/shared/consts/text_styles.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 
 void main() {
   runApp(const MyApp());
